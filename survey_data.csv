@@ -1,0 +1,9 @@
+Name,Age,Gender,Income,Total Expenses,Expenses Detail
+Kayode Oladele,27,Male,5000,3750,"{'utilities': 2000.0, 'entertainment': 500.0, 'school_fees': 700.0, 'shopping': 500.0, 'healthcare': 50.0}"
+Jonas Jiya,26,Male,3000,1900,"{'utilities': 800.0, 'entertainment': 100.0, 'school_fees': 600.0, 'shopping': 300.0, 'healthcare': 100.0}"
+Jane Jiya,25,Female,4000,2700,"{'utilities': 1500.0, 'entertainment': 300.0, 'school_fees': 500.0, 'shopping': 300.0, 'healthcare': 100.0}"
+Victory Oladele,26,Female,5000,3200,"{'utilities': 1500.0, 'entertainment': 700.0, 'school_fees': 200.0, 'shopping': 700.0, 'healthcare': 100.0}"
+John Doe,28,Male,4000,3700,"{'utilities': 700.0, 'entertainment': 1000.0, 'school_fees': 400.0, 'shopping': 1000.0, 'healthcare': 600.0}"
+Mike Smith,30,Male,3000,3300,"{'utilities': 500.0, 'entertainment': 1000.0, 'school_fees': 200.0, 'shopping': 1000.0, 'healthcare': 600.0}"
+Angel Smith,30,Female,3000,4300,"{'utilities': 1500.0, 'entertainment': 1000.0, 'school_fees': 200.0, 'shopping': 1000.0, 'healthcare': 600.0}"
+Caro White,24,Female,4000,4300,"{'utilities': 1500.0, 'entertainment': 1000.0, 'school_fees': 200.0, 'shopping': 1000.0, 'healthcare': 600.0}"
