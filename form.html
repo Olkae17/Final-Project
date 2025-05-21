@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Income & Expense Survey</title>
+</head>
+<body>
+    <h2>Survey Form</h2>
+    <form action="/submit" method="POST">
+        Name: <input type="text" name="name"><br><br>
+        Age: <input type="number" name="age" required><br><br>
+        Gender:
+        <input type="radio" name="gender" value="Male" required> Male
+        <input type="radio" name="gender" value="Female"> Female
+        <input type="radio" name="gender" value="Other"> Other<br><br>
+
+        Total Income: <input type="number" name="income" step="any" required><br><br>
+
+        <h4>Expense Categories</h4>
+        <label><input type="checkbox" name="utilities"> Utilities </label>
+        Amount: <input type="number" name="utilities_amount" step="any"><br>
+
+        <label><input type="checkbox" name="entertainment"> Entertainment </label>
+        Amount: <input type="number" name="entertainment_amount" step="any"><br>
+
+        <label><input type="checkbox" name="school_fees"> School Fees </label>
+        Amount: <input type="number" name="school_fees_amount" step="any"><br>
+
+        <label><input type="checkbox" name="shopping"> Shopping </label>
+        Amount: <input type="number" name="shopping_amount" step="any"><br>
+
+        <label><input type="checkbox" name="healthcare"> Healthcare </label>
+        Amount: <input type="number" name="healthcare_amount" step="any"><br><br>
+
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
